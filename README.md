@@ -44,9 +44,6 @@ The Health Diagnosis Website is a comprehensive platform designed to assist user
 3. Receive an analysis of potential health conditions and recommendations for further action.
 4. Track your symptoms and health information over time.
 
-## Contributing
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
