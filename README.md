@@ -11,7 +11,7 @@ The Health Diagnosis Website is a comprehensive platform designed to assist user
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
-  - [License](#license)
+    
 
 ## Features
 - **Symptom Analysis**: Users can enter their symptoms and receive an analysis of potential health conditions.
@@ -43,9 +43,6 @@ The Health Diagnosis Website is a comprehensive platform designed to assist user
 2. Enter your symptoms and submit them for analysis.
 3. Receive an analysis of potential health conditions and recommendations for further action.
 4. Track your symptoms and health information over time.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
